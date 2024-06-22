@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "xpress": "^2.4.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+    
+  }
+}
